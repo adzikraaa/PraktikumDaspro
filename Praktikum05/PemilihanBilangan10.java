@@ -17,5 +17,7 @@ public class PemilihanBilangan10 {
         {
             System.out.println("Angka" + angka + " termasuk bilangan ganjil");
         }
+        //Bentuk ternary
+        //System.out.println("Angka " + angka " termasuk bilangan " + (angka % 2 == ? "genap" : "ganjil"));
     }
 }
