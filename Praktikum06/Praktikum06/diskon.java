@@ -20,13 +20,9 @@ public class diskon {
             System.out.print("Masukkan jumlah buku yang dibeli: ");
             int jumlahBuku = scanner.nextInt();
     
-        
             // Inisialisasi diskon
             double diskon = 0;
-            
-    
-            
-    
+        
             // Kondisi diskon berdasarkan jenis buku
                 if (jenisBuku.equals("kamus")) {
                 // Diskon awal 10%

@@ -20,7 +20,7 @@ public class bilanganterbesar {
         if (bilangan1 > bilangan2) {
             terbesar = bilangan1;
         }
-        else if (bilangan2 > bilangan1) {
+        else if (bilangan2 > bilangan3) {
             terbesar = bilangan2;
         }
         else 
