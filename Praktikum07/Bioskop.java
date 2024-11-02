@@ -34,7 +34,7 @@ public class Bioskop {
         }
         totalHarga = hargaTiket * totalDiskon;
         System.out.println("Total jumlah tiket: " + totalTiket);
-        System.out.println("Total harga tiket: Rp." + totalHarga); 
+        System.out.println("Total harga tiket: Rp." + totalHarga * totalTiket); 
         } while (true);
 
        

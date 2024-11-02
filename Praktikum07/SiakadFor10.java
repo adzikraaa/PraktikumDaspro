@@ -34,4 +34,4 @@ public class SiakadFor10 {
         System.out.println("Jumlah lulus: " + lulus);
         System.out.println("jumlah tidak lulus: " + tidakLulus);
     }
-}
+};

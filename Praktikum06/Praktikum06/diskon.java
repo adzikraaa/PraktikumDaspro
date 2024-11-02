@@ -30,7 +30,7 @@ public class diskon {
     
                 // Tambahan diskon jika jumlah buku lebih dari 2
                 if (jumlahBuku > 2) {
-                    diskon += 2;
+                    diskon =+ 2;
                 }
             } else if (jenisBuku.equals("novel")) {
                 // Diskon awal 7%
